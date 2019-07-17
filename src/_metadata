@@ -1,0 +1,9 @@
+{
+  "name" : "bedsForTwo",
+  "friendlyName" : "Beds for Two",
+  "author" : "Temia Eszteri",
+  "version" : "0.1.0",
+  "tags" : "Furniture and Objects",
+  "description" : "Do you feel like you're not close enough with your partner, for all the experiences you've shared through the cosmos? Swap out your old single bed for a double bed, and you two can enjoy each other's company as you rest after a long day of mining and monster slaying.\n\nThis mod is inspired by Audie's Shareable Beds and introduces double beds, wider versions of standard beds that can be occupied by two people. They have some notable limitations (crew members will not enter an occupied bed, even if there is a space available), and the mod is very much a work in progress, there being only a few double beds available for use, but with your support and contributions, the range of options will expand that much faster!\n\nTo Use:\nThe basic wooden double beds are unlocked by opening the wooden workbench for the first time. Thereafter, more double beds can be exchanged in the wooden or industrial workbench after finding their single variants.\n\nI hope you enjoy this mod! If you have any issues, do not hesitate to open an issue on GitHub at <github-goes-here>!"
+}
+

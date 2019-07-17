@@ -1,0 +1,30 @@
+Beds For Two
+Written by Temia Eszteri, based on Shareable Beds by Audie
+
+Do you feel like you're not close enough with your partner, for all the
+experiences you've shared through the cosmos? Swap out your old single bed for
+a double bed, and you two can enjoy each other's company as you rest after a
+long day of mining and monster slaying.
+
+This mod introduces double beds, wider versions of standard beds that can be
+occupied by two people. They have some notable limitations (crew members will
+not enter an occupied bed, even if there is a space available), and the mod is
+very much a work in progress, there being only a few double beds available for
+use, but with your support and contributions, the range of options will expand
+that much faster!
+
+To Install:
+	* Run build.sh to create a packed or unpacked version of the mod at your
+	preference.
+	* Place the unpacked directory or .pak file into Starbound/mods
+    * Alternatively, subscribe to the Steam Workshop release at
+      <workshop-goes-here>
+
+To Use:
+	The basic wooden double beds are unlocked by opening the wooden workbench
+    for the first time. Thereafter, more double beds can be exchanged in the
+	wooden or industrial workbench after finding their single variants.
+
+I hope you enjoy this mod! If you have any problems or suggestions, please open
+an issue on GitHub at https://github.com/lamialily/bedsForTwo/issues
+
