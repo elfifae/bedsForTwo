@@ -1,0 +1,10 @@
+// Comfy Traditional Double Bed
+{
+  "input" : [
+    { "item" : "hylotlbed2", "count" : 1 },
+    { "item" : "ornatewood", "count" : 10 }
+  ],
+  "output" : { "item" : "hylotldoublebed2", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}
+

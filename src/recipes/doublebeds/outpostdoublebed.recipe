@@ -1,0 +1,10 @@
+// Basic Double Bed
+{
+  "input" : [
+    { "item" : "outpostbed", "count" : 1 },
+    { "item" : "tungstenbar", "count" : 1 }
+  ],
+  "output" : { "item" : "outpostdoublebed", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}
+

@@ -1,0 +1,5 @@
+// Item patch to enable wooden double bed 2 recipe
+[
+  { "op" : "add", "path" : "/learnBlueprintsOnPickup", "value" : [ "woodendoublebed2" ] }
+]
+

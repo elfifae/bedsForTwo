@@ -1,0 +1,10 @@
+// Wooden Double Bed 2
+{
+  "input" : [
+    { "item" : "woodenbed2", "count" : 1 },
+    { "item" : "darkwoodmaterial", "count" : 10 }
+  ],
+  "output" : { "item" : "woodendoublebed2", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}
+

@@ -1,0 +1,5 @@
+// Player patch to enable wooden double bed
+[
+  { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "woodendoublebed" } }
+]
+

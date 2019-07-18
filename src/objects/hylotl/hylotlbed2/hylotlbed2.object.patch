@@ -1,0 +1,5 @@
+// Item patch to enable comfy traditional double bed recipe
+[
+  { "op" : "add", "path" : "/learnBlueprintsOnPickup", "value" : [ "hylotldoublebed2" ] }
+]
+
