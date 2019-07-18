@@ -1,17 +1,11 @@
-Beds For Two
-Written by Temia Eszteri, based on Shareable Beds by Audie
+Beds For Two, by Temia Eszteri
 
 Do you feel like you're not close enough with your partner, for all the
 experiences you've shared through the cosmos? Swap out your old single bed for
 a double bed, and you two can enjoy each other's company as you rest after a
 long day of mining and monster slaying.
 
-This mod introduces double beds, wider versions of standard beds that can be
-occupied by two people. They have some notable limitations (crew members will
-not enter an occupied bed, even if there is a space available), and the mod is
-very much a work in progress, there being only a few double beds available for
-use, but with your support and contributions, the range of options will expand
-that much faster!
+This mod is inspired by Audie's Shareable Beds and introduces double beds, wider versions of standard beds that can be occupied by two people. They have some notable limitations (the margin of error to get into one side is rather narrow), and the mod is very much a work in progress, there being only four beds at present: two Wooden Double Beds, the Basic Double Bed, and the Traditional Double Bed. However, with your support and contributions, the range of options will expand that much faster!
 
 To Install:
 	* Run build.sh to create a packed or unpacked version of the mod at your
